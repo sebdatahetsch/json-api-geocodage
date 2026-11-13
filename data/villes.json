@@ -17,8 +17,8 @@
       "region": "Sicile",
       "habitants": 630828,
       "restaurants": [
-        {"nom": "Antica Focacceria", "type": "trattoria", "notes": [4.3]},
-        {"nom": "Ferro di Cavallo", "type": "trattoria", "notes": [4.5]}
+        {"nom": "Antica Focacceria", "type": "trattoria", "notes": [4.3, 4.1, 4.4]},
+        {"nom": "Ferro di Cavallo", "type": "trattoria", "notes": [4.5, 4.6]}
       ]
     },
     {
@@ -26,7 +26,7 @@
       "region": "Sicile",
       "habitants": 121605,
       "restaurants": [
-        {"nom": "Don Camillo", "type": "poisson", "notes": [4.7, 4.8, 4.6]},
+        {"nom": "Don Camillo", "type": "poisson", "notes": [4.7, 4.8, 4.6, 4.9]},
         {"nom": "Gelateria Bianca", "type": "glacier", "notes": [4.2]}
       ]
     }
